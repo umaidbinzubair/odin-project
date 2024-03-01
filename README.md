@@ -1,2 +1,2 @@
-# web_dev
+# Odin Project
 Learning web development
